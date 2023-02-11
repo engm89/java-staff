@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import javax.security.sasl.SaslException;
-
 public class DuplicateChar {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
